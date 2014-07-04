@@ -1,0 +1,1 @@
+Skills will be learned through skilltrees. Not all skilltrees will be available by default; there will be unlockable skilltrees through items and AI (for example, someone who wants to learn fire-control skills would look to acquire a scroll of fire control). By default, everyone starts with access to the Basic skilltree.

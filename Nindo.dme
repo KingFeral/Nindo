@@ -1,0 +1,84 @@
+// DM Environment file for Nindo.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "interface.dmf"
+#include "code\__define.dm"
+#include "code\admin\admin.dm"
+#include "code\atom\movable\garbage.dm"
+#include "code\atom\movable\layering.dm"
+#include "code\atom\movable\movable.dm"
+#include "code\atom\movable\movement.dm"
+#include "code\client\client.dm"
+#include "code\client\gamepad.dm"
+#include "code\client\key_events.dm"
+#include "code\client\macros.dm"
+#include "code\client\movement.dm"
+#include "code\event_obj\event_obj.dm"
+#include "code\game\world.dm"
+#include "code\lib\audeuro\ini_reader.dm"
+#include "code\lib\dark_campainger\base.dm"
+#include "code\lib\dark_campainger\graph.dm"
+#include "code\lib\dark_campainger\node.dm"
+#include "code\lib\dark_campainger\pather.dm"
+#include "code\lib\deadron\text_handling.dm"
+#include "code\lib\flick\Cache.dm"
+#include "code\lib\flick\F_Damage.dm"
+#include "code\lib\flick\F_Damage_Align.dm"
+#include "code\lib\flick\F_Damage_Global.dm"
+#include "code\lib\flick\F_DamageCode.dm"
+#include "code\lib\foomer\autojoin.dm"
+#include "code\lib\lummoxjr\dmifontsplus.dm"
+#include "code\lib\lummoxjr\font.dm"
+#include "code\lib\stephen001\__error_handling.dm"
+#include "code\lib\stephen001\event-scheduler.dm"
+#include "code\lib\stephen001\quicksort.dm"
+#include "code\lib\ter13\autotile.dm"
+#include "code\lib\ter13\collider.dm"
+#include "code\lib\ter13\edge_slide.dm"
+#include "code\mob\mob.dm"
+#include "code\mob\movement.dm"
+#include "code\mob\actor\actions.dm"
+#include "code\mob\actor\actor.dm"
+#include "code\mob\actor\combat_actions.dm"
+#include "code\mob\actor\movement.dm"
+#include "code\mob\character\appearances.dm"
+#include "code\mob\character\character.dm"
+#include "code\mob\character\combat.dm"
+#include "code\mob\character\movement.dm"
+#include "code\mob\character\stats.dm"
+#include "code\mob\character\combatant\combat.dm"
+#include "code\mob\character\combatant\combatant.dm"
+#include "code\mob\character\combatant\movement.dm"
+#include "code\mob\character\combatant\bot\bot.dm"
+#include "code\mob\character\combatant\player\player.dm"
+#include "code\mob\login\login.dm"
+#include "code\obj\obj.dm"
+#include "code\obj\item\inventory.dm"
+#include "code\obj\item\item.dm"
+#include "code\skill\skill.dm"
+#include "code\skill\skill_ids.dm"
+#include "code\skill\basic\body_flicker.dm"
+#include "code\skill\basic\clone.dm"
+#include "code\skill\basic\substitution.dm"
+#include "code\skill\basic\transformation.dm"
+#include "code\structure\structure.dm"
+#include "code\structure\faction\faction.dm"
+#include "code\structure\village\village.dm"
+#include "code\turf\tile\autotile.dm"
+#include "code\turf\tile\tile.dm"
+#include "maps\import.dmm"
+// END_INCLUDE
+

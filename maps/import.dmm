@@ -1,0 +1,71 @@
+"a" = (/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "255"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+"b" = (/turf/tile/dirt,/area)
+"c" = (/obj/rock,/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "255"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+"d" = (/obj/rock,/turf/tile/dirt,/area)
+"e" = (/obj/tree,/turf/tile/dirt,/area)
+"f" = (/obj/tree,/turf/tile/grass,/area)
+"g" = (/turf/tile/grass,/area)
+"h" = (/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "199"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+"i" = (/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "193"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+"j" = (/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "241"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+"k" = (/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "7"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+"l" = (/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "31"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+"m" = (/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "28"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+"n" = (/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "124"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+"o" = (/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "253"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+"p" = (/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "112"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+"q" = (/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "247"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+"r" = (/turf/tile/autotile{autotile_matches = list("water"); icon = 'media/turf/tile/water.dmi'; icon_state = "223"; layer = 1.91; name = "water"; tile_id = "water"},/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbbbbb
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbbbbb
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbbbbb
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbmnnnnnn
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajbbbblaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbkhhhhhh
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbbbbb
+aaaaaaaaaaaaaaaaaaaaaaaaaaaqhhhhhhhhrajbbbbbbbbbbb
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbblaonnnpbbbbbbb
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbblaaaaajbbbbbbb
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbblaaaaajbbbmnnn
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbblaaaaajbbblaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbblaacaajbbblaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbblaaaaajbbblaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbblaaaaajbbblaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbblaaaaajbbblaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbblaaaaajbbblaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbblaaaaajbbblaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbbkhhhhhibbbkhhh
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbbbbbbbbbbbbbbbb
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbbbbbbbbbbbbbbbb
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbbbbbbbbbbbbbbbb
+aaaaaaaaaaaaaaaaaaaaaaaaaaajbbbbbbbbbbbbbbbbbbbbbb
+hhhhhhhhhhhhhhhhhhhhhhhhhhhibbbbbdbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbebbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbfgbbbbbbbbbbgbbbbbbbbbbbgbbggg
+gbbbbbgbbbgggbgbbbgggggbbbbbbbbbbbbgggggbbbgbbbbbg
+bbbbbbggggbggggggbbbbbbbbbbggbbdgbbbbbbbbbbbgbgggb
+ggggggbbggbbbgbgggggggggggggggbbbgggggggggggbbbbbb
+gggggggggbbbbbgggggggggggggbgggggggggggggggggggggg
+ggfgggggggggbbbggggbggbggggbbggggggggggggggggggggg
+ggggggggggggggggbggggggbgbggggggggbggggggggggggggg
+gggggggggggggggbggggggbgbggggfggggbbgggggggggggggg
+ggggggggggggggggggggggbbbggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+ggggggggggggfggggggggggggggggggggggggggggggggggggg
+ggggggggggggggggggggggggggggbggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggggggggggggggggggggggggggg
+"}

@@ -1,0 +1,2 @@
+Drop System
+	AI and some objects will produce scroll drops which can come in one of four rarities: common, uncommon, rare, and legendary. These scrolls can have anything from money to legendary blades that you can put on sell or apply to another character. Scroll drops and its items go up in flames and disappear after x amount of time of not being used.
